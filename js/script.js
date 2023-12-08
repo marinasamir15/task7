@@ -156,7 +156,7 @@
 // var num=Number(window.prompt("enter number"));
 // var result;
 // for(i=1;i<=12;i++){
-//     result=i*num
+//     result=i*num;
 //     console.log(`${num}*${i}=${result}`);
 // }
 
