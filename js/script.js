@@ -215,12 +215,13 @@
 // Physics, Chemistry, Biology, Mathematics and Computer
 // , Find percentage and grade*/
 
-// var total=0;
-// for(i=1;i<=5;i++){
-// total+=Number(window.prompt("enter mark of subject "+ i));
-// }
+// var mark1=Number(window.prompt("enter the mark of Physics"));
+// var mark2=Number(window.prompt("enter the mark of Chemistry"));
+// var mark3=Number(window.prompt("enter the mark of Biology"));
+// var mark4=Number(window.prompt("enter the mark of Mathematics"));
+// var mark5=Number(window.prompt("enter the mark of Computer"));
+// var total=mark1+mark2+mark3+mark4+mark5;
 // var percentage=(total/500)*100;
-
 // if(percentage >=90){
 //     console.log("percentage of five subjects is "+percentage+"%" +" : Grade A");
 // }else if(percentage >= 80){
